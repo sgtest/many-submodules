@@ -1,0 +1,3 @@
+[submodule "modules/mux"]
+	path = modules/mux
+	url = https://github.com/gorilla/mux
