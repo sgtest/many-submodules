@@ -1,3 +1,603 @@
 [submodule "modules/mux"]
 	path = modules/mux
 	url = https://github.com/gorilla/mux
+[submodule "modules/weaveworks/weave"]
+	path = modules/weaveworks/weave
+	url = https://github.com/weaveworks/weave
+[submodule "modules/andlabs/ui"]
+	path = modules/andlabs/ui
+	url = https://github.com/andlabs/ui
+[submodule "modules/apex/up"]
+	path = modules/apex/up
+	url = https://github.com/apex/up
+[submodule "modules/sosedoff/pgweb"]
+	path = modules/sosedoff/pgweb
+	url = https://github.com/sosedoff/pgweb
+[submodule "modules/ipfs/go-ipfs"]
+	path = modules/ipfs/go-ipfs
+	url = https://github.com/ipfs/go-ipfs
+[submodule "modules/kelseyhightower/confd"]
+	path = modules/kelseyhightower/confd
+	url = https://github.com/kelseyhightower/confd
+[submodule "modules/spf13/viper"]
+	path = modules/spf13/viper
+	url = https://github.com/spf13/viper
+[submodule "modules/rakyll/boom"]
+	path = modules/rakyll/boom
+	url = https://github.com/rakyll/boom
+[submodule "modules/cloudson/gitql"]
+	path = modules/cloudson/gitql
+	url = https://github.com/cloudson/gitql
+[submodule "modules/stretchr/testify"]
+	path = modules/stretchr/testify
+	url = https://github.com/stretchr/testify
+[submodule "modules/kubernetes/kops"]
+	path = modules/kubernetes/kops
+	url = https://github.com/kubernetes/kops
+[submodule "modules/influxdata/telegraf"]
+	path = modules/influxdata/telegraf
+	url = https://github.com/influxdata/telegraf
+[submodule "modules/kubernetes/helm"]
+	path = modules/kubernetes/helm
+	url = https://github.com/kubernetes/helm
+[submodule "modules/fabiolb/fabio"]
+	path = modules/fabiolb/fabio
+	url = https://github.com/fabiolb/fabio
+[submodule "modules/upspin/upspin"]
+	path = modules/upspin/upspin
+	url = https://github.com/upspin/upspin
+[submodule "modules/opencontainers/runc"]
+	path = modules/opencontainers/runc
+	url = https://github.com/opencontainers/runc
+[submodule "modules/rancher/os"]
+	path = modules/rancher/os
+	url = https://github.com/rancher/os
+[submodule "modules/docker/machine"]
+	path = modules/docker/machine
+	url = https://github.com/docker/machine
+[submodule "modules/tidwall/tile38"]
+	path = modules/tidwall/tile38
+	url = https://github.com/tidwall/tile38
+[submodule "modules/google/seesaw"]
+	path = modules/google/seesaw
+	url = https://github.com/google/seesaw
+[submodule "modules/peco/peco"]
+	path = modules/peco/peco
+	url = https://github.com/peco/peco
+[submodule "modules/schollz/find"]
+	path = modules/schollz/find
+	url = https://github.com/schollz/find
+[submodule "modules/simeji/jid"]
+	path = modules/simeji/jid
+	url = https://github.com/simeji/jid
+[submodule "modules/hyperledger/fabric"]
+	path = modules/hyperledger/fabric
+	url = https://github.com/hyperledger/fabric
+[submodule "modules/fiorix/freegeoip"]
+	path = modules/fiorix/freegeoip
+	url = https://github.com/fiorix/freegeoip
+[submodule "modules/hashicorp/serf"]
+	path = modules/hashicorp/serf
+	url = https://github.com/hashicorp/serf
+[submodule "modules/dinedal/textql"]
+	path = modules/dinedal/textql
+	url = https://github.com/dinedal/textql
+[submodule "modules/openshift/origin"]
+	path = modules/openshift/origin
+	url = https://github.com/openshift/origin
+[submodule "modules/jaegertracing/jaeger"]
+	path = modules/jaegertracing/jaeger
+	url = https://github.com/jaegertracing/jaeger
+[submodule "modules/blevesearch/bleve"]
+	path = modules/blevesearch/bleve
+	url = https://github.com/blevesearch/bleve
+[submodule "modules/micro/micro"]
+	path = modules/micro/micro
+	url = https://github.com/micro/micro
+[submodule "modules/nsf/gocode"]
+	path = modules/nsf/gocode
+	url = https://github.com/nsf/gocode
+[submodule "modules/gomodule/redigo"]
+	path = modules/gomodule/redigo
+	url = https://github.com/gomodule/redigo
+[submodule "modules/linuxkit/linuxkit"]
+	path = modules/linuxkit/linuxkit
+	url = https://github.com/linuxkit/linuxkit
+[submodule "modules/Unknwon/go-fundamental-programming"]
+	path = modules/Unknwon/go-fundamental-programming
+	url = https://github.com/Unknwon/go-fundamental-programming
+[submodule "modules/jmoiron/sqlx"]
+	path = modules/jmoiron/sqlx
+	url = https://github.com/jmoiron/sqlx
+[submodule "modules/gocolly/colly"]
+	path = modules/gocolly/colly
+	url = https://github.com/gocolly/colly
+[submodule "modules/hybridgroup/gobot"]
+	path = modules/hybridgroup/gobot
+	url = https://github.com/hybridgroup/gobot
+[submodule "modules/google/gxui"]
+	path = modules/google/gxui
+	url = https://github.com/google/gxui
+[submodule "modules/prasmussen/gdrive"]
+	path = modules/prasmussen/gdrive
+	url = https://github.com/prasmussen/gdrive
+[submodule "modules/shadowsocks/shadowsocks-go"]
+	path = modules/shadowsocks/shadowsocks-go
+	url = https://github.com/shadowsocks/shadowsocks-go
+[submodule "modules/ory/hydra"]
+	path = modules/ory/hydra
+	url = https://github.com/ory/hydra
+[submodule "modules/Workiva/go-datastructures"]
+	path = modules/Workiva/go-datastructures
+	url = https://github.com/Workiva/go-datastructures
+[submodule "modules/nats-io/gnatsd"]
+	path = modules/nats-io/gnatsd
+	url = https://github.com/nats-io/gnatsd
+[submodule "modules/vmware/harbor"]
+	path = modules/vmware/harbor
+	url = https://github.com/vmware/harbor
+[submodule "modules/Netflix/chaosmonkey"]
+	path = modules/Netflix/chaosmonkey
+	url = https://github.com/Netflix/chaosmonkey
+[submodule "modules/aws/aws-sdk-go"]
+	path = modules/aws/aws-sdk-go
+	url = https://github.com/aws/aws-sdk-go
+[submodule "modules/restic/restic"]
+	path = modules/restic/restic
+	url = https://github.com/restic/restic
+[submodule "modules/docker/distribution"]
+	path = modules/docker/distribution
+	url = https://github.com/docker/distribution
+[submodule "modules/emirpasic/gods"]
+	path = modules/emirpasic/gods
+	url = https://github.com/emirpasic/gods
+[submodule "modules/google/git-appraise"]
+	path = modules/google/git-appraise
+	url = https://github.com/google/git-appraise
+[submodule "modules/therecipe/qt"]
+	path = modules/therecipe/qt
+	url = https://github.com/therecipe/qt
+[submodule "modules/yeasy/blockchain_guide"]
+	path = modules/yeasy/blockchain_guide
+	url = https://github.com/yeasy/blockchain_guide
+[submodule "modules/henrylee2cn/pholcus"]
+	path = modules/henrylee2cn/pholcus
+	url = https://github.com/henrylee2cn/pholcus
+[submodule "modules/lib/pq"]
+	path = modules/lib/pq
+	url = https://github.com/lib/pq
+[submodule "modules/robertkrimen/otto"]
+	path = modules/robertkrimen/otto
+	url = https://github.com/robertkrimen/otto
+[submodule "modules/ponzu-cms/ponzu"]
+	path = modules/ponzu-cms/ponzu
+	url = https://github.com/ponzu-cms/ponzu
+[submodule "modules/rqlite/rqlite"]
+	path = modules/rqlite/rqlite
+	url = https://github.com/rqlite/rqlite
+[submodule "modules/alexflint/gallium"]
+	path = modules/alexflint/gallium
+	url = https://github.com/alexflint/gallium
+[submodule "modules/fogleman/nes"]
+	path = modules/fogleman/nes
+	url = https://github.com/fogleman/nes
+[submodule "modules/gliderlabs/registrator"]
+	path = modules/gliderlabs/registrator
+	url = https://github.com/gliderlabs/registrator
+[submodule "modules/uber-go/zap"]
+	path = modules/uber-go/zap
+	url = https://github.com/uber-go/zap
+[submodule "modules/dropbox/godropbox"]
+	path = modules/dropbox/godropbox
+	url = https://github.com/dropbox/godropbox
+[submodule "modules/facebookgo/grace"]
+	path = modules/facebookgo/grace
+	url = https://github.com/facebookgo/grace
+[submodule "modules/bitly/oauth2_proxy"]
+	path = modules/bitly/oauth2_proxy
+	url = https://github.com/bitly/oauth2_proxy
+[submodule "modules/wallix/awless"]
+	path = modules/wallix/awless
+	url = https://github.com/wallix/awless
+[submodule "modules/loadimpact/k6"]
+	path = modules/loadimpact/k6
+	url = https://github.com/loadimpact/k6
+[submodule "modules/kshvmdn/fsql"]
+	path = modules/kshvmdn/fsql
+	url = https://github.com/kshvmdn/fsql
+[submodule "modules/smartystreets/goconvey"]
+	path = modules/smartystreets/goconvey
+	url = https://github.com/smartystreets/goconvey
+[submodule "modules/zricethezav/gitleaks"]
+	path = modules/zricethezav/gitleaks
+	url = https://github.com/zricethezav/gitleaks
+[submodule "modules/yinghuocho/firefly-proxy"]
+	path = modules/yinghuocho/firefly-proxy
+	url = https://github.com/yinghuocho/firefly-proxy
+[submodule "modules/zenazn/goji"]
+	path = modules/zenazn/goji
+	url = https://github.com/zenazn/goji
+[submodule "modules/go-ego/riot"]
+	path = modules/go-ego/riot
+	url = https://github.com/go-ego/riot
+[submodule "modules/google/go-github"]
+	path = modules/google/go-github
+	url = https://github.com/google/go-github
+[submodule "modules/keybase/client"]
+	path = modules/keybase/client
+	url = https://github.com/keybase/client
+[submodule "modules/tombh/texttop"]
+	path = modules/tombh/texttop
+	url = https://github.com/tombh/texttop
+[submodule "modules/grpc-ecosystem/grpc-gateway"]
+	path = modules/grpc-ecosystem/grpc-gateway
+	url = https://github.com/grpc-ecosystem/grpc-gateway
+[submodule "modules/hashicorp/nomad"]
+	path = modules/hashicorp/nomad
+	url = https://github.com/hashicorp/nomad
+[submodule "modules/flike/kingshard"]
+	path = modules/flike/kingshard
+	url = https://github.com/flike/kingshard
+[submodule "modules/dgraph-io/badger"]
+	path = modules/dgraph-io/badger
+	url = https://github.com/dgraph-io/badger
+[submodule "modules/mozilla-services/heka"]
+	path = modules/mozilla-services/heka
+	url = https://github.com/mozilla-services/heka
+[submodule "modules/gomatcha/matcha"]
+	path = modules/gomatcha/matcha
+	url = https://github.com/gomatcha/matcha
+[submodule "modules/github/gh-ost"]
+	path = modules/github/gh-ost
+	url = https://github.com/github/gh-ost
+[submodule "modules/go-chi/chi"]
+	path = modules/go-chi/chi
+	url = https://github.com/go-chi/chi
+[submodule "modules/davecheney/httpstat"]
+	path = modules/davecheney/httpstat
+	url = https://github.com/davecheney/httpstat
+[submodule "modules/direnv/direnv"]
+	path = modules/direnv/direnv
+	url = https://github.com/direnv/direnv
+[submodule "modules/coreos/clair"]
+	path = modules/coreos/clair
+	url = https://github.com/coreos/clair
+[submodule "modules/tj/node-prune"]
+	path = modules/tj/node-prune
+	url = https://github.com/tj/node-prune
+[submodule "modules/dgrijalva/jwt-go"]
+	path = modules/dgrijalva/jwt-go
+	url = https://github.com/dgrijalva/jwt-go
+[submodule "modules/burke/zeus"]
+	path = modules/burke/zeus
+	url = https://github.com/burke/zeus
+[submodule "modules/micro/go-micro"]
+	path = modules/micro/go-micro
+	url = https://github.com/micro/go-micro
+[submodule "modules/google/battery-historian"]
+	path = modules/google/battery-historian
+	url = https://github.com/google/battery-historian
+[submodule "modules/mailhog/MailHog"]
+	path = modules/mailhog/MailHog
+	url = https://github.com/mailhog/MailHog
+[submodule "modules/kardianos/govendor"]
+	path = modules/kardianos/govendor
+	url = https://github.com/kardianos/govendor
+[submodule "modules/ardanlabs/gotraining"]
+	path = modules/ardanlabs/gotraining
+	url = https://github.com/ardanlabs/gotraining
+[submodule "modules/gliderlabs/logspout"]
+	path = modules/gliderlabs/logspout
+	url = https://github.com/gliderlabs/logspout
+[submodule "modules/fission/fission"]
+	path = modules/fission/fission
+	url = https://github.com/fission/fission
+[submodule "modules/igrigorik/ga-beacon"]
+	path = modules/igrigorik/ga-beacon
+	url = https://github.com/igrigorik/ga-beacon
+[submodule "modules/erroneousboat/slack-term"]
+	path = modules/erroneousboat/slack-term
+	url = https://github.com/erroneousboat/slack-term
+[submodule "modules/TykTechnologies/tyk"]
+	path = modules/TykTechnologies/tyk
+	url = https://github.com/TykTechnologies/tyk
+[submodule "modules/ant0ine/go-json-rest"]
+	path = modules/ant0ine/go-json-rest
+	url = https://github.com/ant0ine/go-json-rest
+[submodule "modules/polaris1119/The-Golang-Standard-Library-by-Example"]
+	path = modules/polaris1119/The-Golang-Standard-Library-by-Example
+	url = https://github.com/polaris1119/The-Golang-Standard-Library-by-Example
+[submodule "modules/txthinking/brook"]
+	path = modules/txthinking/brook
+	url = https://github.com/txthinking/brook
+[submodule "modules/go-redis/redis"]
+	path = modules/go-redis/redis
+	url = https://github.com/go-redis/redis
+[submodule "modules/hoisie/web"]
+	path = modules/hoisie/web
+	url = https://github.com/hoisie/web
+[submodule "modules/progrium/localtunnel"]
+	path = modules/progrium/localtunnel
+	url = https://github.com/progrium/localtunnel
+[submodule "modules/qor/qor"]
+	path = modules/qor/qor
+	url = https://github.com/qor/qor
+[submodule "modules/rakyll/hey"]
+	path = modules/rakyll/hey
+	url = https://github.com/rakyll/hey
+[submodule "modules/shazow/ssh-chat"]
+	path = modules/shazow/ssh-chat
+	url = https://github.com/shazow/ssh-chat
+[submodule "modules/gchaincl/httplab"]
+	path = modules/gchaincl/httplab
+	url = https://github.com/gchaincl/httplab
+[submodule "modules/ha/doozerd"]
+	path = modules/ha/doozerd
+	url = https://github.com/ha/doozerd
+[submodule "modules/go-xorm/xorm"]
+	path = modules/go-xorm/xorm
+	url = https://github.com/go-xorm/xorm
+[submodule "modules/russross/blackfriday"]
+	path = modules/russross/blackfriday
+	url = https://github.com/russross/blackfriday
+[submodule "modules/muesli/beehive"]
+	path = modules/muesli/beehive
+	url = https://github.com/muesli/beehive
+[submodule "modules/elves/elvish"]
+	path = modules/elves/elvish
+	url = https://github.com/elves/elvish
+[submodule "modules/coyove/goflyway"]
+	path = modules/coyove/goflyway
+	url = https://github.com/coyove/goflyway
+[submodule "modules/rgburke/grv"]
+	path = modules/rgburke/grv
+	url = https://github.com/rgburke/grv
+[submodule "modules/coreos/flannel"]
+	path = modules/coreos/flannel
+	url = https://github.com/coreos/flannel
+[submodule "modules/DisposaBoy/GoSublime"]
+	path = modules/DisposaBoy/GoSublime
+	url = https://github.com/DisposaBoy/GoSublime
+[submodule "modules/pkg/errors"]
+	path = modules/pkg/errors
+	url = https://github.com/pkg/errors
+[submodule "modules/hashicorp/consul-template"]
+	path = modules/hashicorp/consul-template
+	url = https://github.com/hashicorp/consul-template
+[submodule "modules/graphql-go/graphql"]
+	path = modules/graphql-go/graphql
+	url = https://github.com/graphql-go/graphql
+[submodule "modules/cloudflare/cfssl"]
+	path = modules/cloudflare/cfssl
+	url = https://github.com/cloudflare/cfssl
+[submodule "modules/go-gorp/gorp"]
+	path = modules/go-gorp/gorp
+	url = https://github.com/go-gorp/gorp
+[submodule "modules/huichen/wukong"]
+	path = modules/huichen/wukong
+	url = https://github.com/huichen/wukong
+[submodule "modules/jwilder/docker-gen"]
+	path = modules/jwilder/docker-gen
+	url = https://github.com/jwilder/docker-gen
+[submodule "modules/golang/mobile"]
+	path = modules/golang/mobile
+	url = https://github.com/golang/mobile
+[submodule "modules/adnanh/webhook"]
+	path = modules/adnanh/webhook
+	url = https://github.com/adnanh/webhook
+[submodule "modules/golang/protobuf"]
+	path = modules/golang/protobuf
+	url = https://github.com/golang/protobuf
+[submodule "modules/nsf/termbox-go"]
+	path = modules/nsf/termbox-go
+	url = https://github.com/nsf/termbox-go
+[submodule "modules/uber/go-torch"]
+	path = modules/uber/go-torch
+	url = https://github.com/uber/go-torch
+[submodule "modules/Shopify/sarama"]
+	path = modules/Shopify/sarama
+	url = https://github.com/Shopify/sarama
+[submodule "modules/tsuru/tsuru"]
+	path = modules/tsuru/tsuru
+	url = https://github.com/tsuru/tsuru
+[submodule "modules/miekg/dns"]
+	path = modules/miekg/dns
+	url = https://github.com/miekg/dns
+[submodule "modules/goadesign/goa"]
+	path = modules/goadesign/goa
+	url = https://github.com/goadesign/goa
+[submodule "modules/astaxie/go-best-practice"]
+	path = modules/astaxie/go-best-practice
+	url = https://github.com/astaxie/go-best-practice
+[submodule "modules/tidwall/gjson"]
+	path = modules/tidwall/gjson
+	url = https://github.com/tidwall/gjson
+[submodule "modules/pachyderm/pachyderm"]
+	path = modules/pachyderm/pachyderm
+	url = https://github.com/pachyderm/pachyderm
+[submodule "modules/emicklei/go-restful"]
+	path = modules/emicklei/go-restful
+	url = https://github.com/emicklei/go-restful
+[submodule "modules/mailgun/godebug"]
+	path = modules/mailgun/godebug
+	url = https://github.com/mailgun/godebug
+[submodule "modules/perkeep/perkeep"]
+	path = modules/perkeep/perkeep
+	url = https://github.com/perkeep/perkeep
+[submodule "modules/goby-lang/goby"]
+	path = modules/goby-lang/goby
+	url = https://github.com/goby-lang/goby
+[submodule "modules/vulcand/vulcand"]
+	path = modules/vulcand/vulcand
+	url = https://github.com/vulcand/vulcand
+[submodule "modules/open-falcon/falcon-plus"]
+	path = modules/open-falcon/falcon-plus
+	url = https://github.com/open-falcon/falcon-plus
+[submodule "modules/mitchellh/gox"]
+	path = modules/mitchellh/gox
+	url = https://github.com/mitchellh/gox
+[submodule "modules/goreleaser/goreleaser"]
+	path = modules/goreleaser/goreleaser
+	url = https://github.com/goreleaser/goreleaser
+[submodule "modules/contribsys/faktory"]
+	path = modules/contribsys/faktory
+	url = https://github.com/contribsys/faktory
+[submodule "modules/Shopify/toxiproxy"]
+	path = modules/Shopify/toxiproxy
+	url = https://github.com/Shopify/toxiproxy
+[submodule "modules/fanpei91/p2pspider"]
+	path = modules/fanpei91/p2pspider
+	url = https://github.com/fanpei91/p2pspider
+[submodule "modules/karan/joe"]
+	path = modules/karan/joe
+	url = https://github.com/karan/joe
+[submodule "modules/motemen/gore"]
+	path = modules/motemen/gore
+	url = https://github.com/motemen/gore
+[submodule "modules/ansible-semaphore/semaphore"]
+	path = modules/ansible-semaphore/semaphore
+	url = https://github.com/ansible-semaphore/semaphore
+[submodule "modules/NebulousLabs/Sia"]
+	path = modules/NebulousLabs/Sia
+	url = https://github.com/NebulousLabs/Sia
+[submodule "modules/cortesi/devd"]
+	path = modules/cortesi/devd
+	url = https://github.com/cortesi/devd
+[submodule "modules/adtac/commento"]
+	path = modules/adtac/commento
+	url = https://github.com/adtac/commento
+[submodule "modules/rook/rook"]
+	path = modules/rook/rook
+	url = https://github.com/rook/rook
+[submodule "modules/centrifugal/centrifugo"]
+	path = modules/centrifugal/centrifugo
+	url = https://github.com/centrifugal/centrifugo
+[submodule "modules/bosun-monitor/bosun"]
+	path = modules/bosun-monitor/bosun
+	url = https://github.com/bosun-monitor/bosun
+[submodule "modules/gobuffalo/buffalo"]
+	path = modules/gobuffalo/buffalo
+	url = https://github.com/gobuffalo/buffalo
+[submodule "modules/asaskevich/govalidator"]
+	path = modules/asaskevich/govalidator
+	url = https://github.com/asaskevich/govalidator
+[submodule "modules/alecthomas/gometalinter"]
+	path = modules/alecthomas/gometalinter
+	url = https://github.com/alecthomas/gometalinter
+[submodule "modules/lxn/walk"]
+	path = modules/lxn/walk
+	url = https://github.com/lxn/walk
+[submodule "modules/shirou/gopsutil"]
+	path = modules/shirou/gopsutil
+	url = https://github.com/shirou/gopsutil
+[submodule "modules/xenolf/lego"]
+	path = modules/xenolf/lego
+	url = https://github.com/xenolf/lego
+[submodule "modules/siddontang/ledisdb"]
+	path = modules/siddontang/ledisdb
+	url = https://github.com/siddontang/ledisdb
+[submodule "modules/fnproject/fn"]
+	path = modules/fnproject/fn
+	url = https://github.com/fnproject/fn
+[submodule "modules/golang/lint"]
+	path = modules/golang/lint
+	url = https://github.com/golang/lint
+[submodule "modules/GoesToEleven/GolangTraining"]
+	path = modules/GoesToEleven/GolangTraining
+	url = https://github.com/GoesToEleven/GolangTraining
+[submodule "modules/src-d/go-git"]
+	path = modules/src-d/go-git
+	url = https://github.com/src-d/go-git
+[submodule "modules/oklog/oklog"]
+	path = modules/oklog/oklog
+	url = https://github.com/oklog/oklog
+[submodule "modules/coreos/fleet"]
+	path = modules/coreos/fleet
+	url = https://github.com/coreos/fleet
+[submodule "modules/nlf/dlite"]
+	path = modules/nlf/dlite
+	url = https://github.com/nlf/dlite
+[submodule "modules/pksunkara/alpaca"]
+	path = modules/pksunkara/alpaca
+	url = https://github.com/pksunkara/alpaca
+[submodule "modules/google/gops"]
+	path = modules/google/gops
+	url = https://github.com/google/gops
+[submodule "modules/remind101/empire"]
+	path = modules/remind101/empire
+	url = https://github.com/remind101/empire
+[submodule "modules/letsencrypt/boulder"]
+	path = modules/letsencrypt/boulder
+	url = https://github.com/letsencrypt/boulder
+[submodule "modules/codegangsta/gin"]
+	path = modules/codegangsta/gin
+	url = https://github.com/codegangsta/gin
+[submodule "modules/containerd/containerd"]
+	path = modules/containerd/containerd
+	url = https://github.com/containerd/containerd
+[submodule "modules/json-iterator/go"]
+	path = modules/json-iterator/go
+	url = https://github.com/json-iterator/go
+[submodule "modules/olebedev/go-starter-kit"]
+	path = modules/olebedev/go-starter-kit
+	url = https://github.com/olebedev/go-starter-kit
+[submodule "modules/xo/usql"]
+	path = modules/xo/usql
+	url = https://github.com/xo/usql
+[submodule "modules/olivere/elastic"]
+	path = modules/olivere/elastic
+	url = https://github.com/olivere/elastic
+[submodule "modules/jroimartin/gocui"]
+	path = modules/jroimartin/gocui
+	url = https://github.com/jroimartin/gocui
+[submodule "modules/appleboy/gorush"]
+	path = modules/appleboy/gorush
+	url = https://github.com/appleboy/gorush
+[submodule "modules/elazarl/goproxy"]
+	path = modules/elazarl/goproxy
+	url = https://github.com/elazarl/goproxy
+[submodule "modules/travisjeffery/jocko"]
+	path = modules/travisjeffery/jocko
+	url = https://github.com/travisjeffery/jocko
+[submodule "modules/docker/libchan"]
+	path = modules/docker/libchan
+	url = https://github.com/docker/libchan
+[submodule "modules/btcsuite/btcd"]
+	path = modules/btcsuite/btcd
+	url = https://github.com/btcsuite/btcd
+[submodule "modules/go-macaron/macaron"]
+	path = modules/go-macaron/macaron
+	url = https://github.com/go-macaron/macaron
+[submodule "modules/lightningnetwork/lnd"]
+	path = modules/lightningnetwork/lnd
+	url = https://github.com/lightningnetwork/lnd
+[submodule "modules/kubernetes/kompose"]
+	path = modules/kubernetes/kompose
+	url = https://github.com/kubernetes/kompose
+[submodule "modules/GoogleCloudPlatform/skaffold"]
+	path = modules/GoogleCloudPlatform/skaffold
+	url = https://github.com/GoogleCloudPlatform/skaffold
+[submodule "modules/jung-kurt/gofpdf"]
+	path = modules/jung-kurt/gofpdf
+	url = https://github.com/jung-kurt/gofpdf
+[submodule "modules/weaveworks/scope"]
+	path = modules/weaveworks/scope
+	url = https://github.com/weaveworks/scope
+[submodule "modules/bitly/go-simplejson"]
+	path = modules/bitly/go-simplejson
+	url = https://github.com/bitly/go-simplejson
+[submodule "modules/monochromegane/the_platinum_searcher"]
+	path = modules/monochromegane/the_platinum_searcher
+	url = https://github.com/monochromegane/the_platinum_searcher
+[submodule "modules/tealeg/xlsx"]
+	path = modules/tealeg/xlsx
+	url = https://github.com/tealeg/xlsx
+[submodule "modules/twitchtv/twirp"]
+	path = modules/twitchtv/twirp
+	url = https://github.com/twitchtv/twirp
+[submodule "modules/alibaba/pouch"]
+	path = modules/alibaba/pouch
+	url = https://github.com/alibaba/pouch
+[submodule "modules/robfig/cron"]
+	path = modules/robfig/cron
+	url = https://github.com/robfig/cron
