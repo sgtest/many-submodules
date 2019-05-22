@@ -601,3 +601,6 @@
 [submodule "modules/robfig__cron"]
 	path = modules/robfig__cron
 	url = https://github.com/robfig/cron
+[submodule "new/test-1"]
+	path = new/test-1
+	url = git@gitolite.sgdev.org:test-1
