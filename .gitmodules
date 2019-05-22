@@ -607,3 +607,6 @@
 [submodule "new/mux"]
 	path = new/mux
 	url = git@github.com:gorilla/mux.git
+[submodule "new/foo@bar"]
+	path = new/foo@bar
+	url = git@gitolite.sgdev.org:foo@bar.git
