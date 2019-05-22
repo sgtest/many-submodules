@@ -604,3 +604,6 @@
 [submodule "new/test-1"]
 	path = new/test-1
 	url = git@gitolite.sgdev.org:test-1
+[submodule "new/mux"]
+	path = new/mux
+	url = git@github.com:gorilla/mux.git
